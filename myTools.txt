@@ -1,4 +1,14 @@
-|     Tool      |   Perspetive  |     Type     |     Usage     |
-| ------------- | ------------- | ------------ | ------------- |
-| Content Cell  | Content Cell  | Content Cell | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell | Content Cell  |
+|     Tool      |   Perspetive  |     Type     |     Usage            |
+| ------------- | ------------- | ------------ | -------------        |
+|     nmap      |    internal   |  port scan   | nmap -T4 -p- -A [ip] |
+| nmapAutomator |    internal   |  port scan   | nmapAutomator [ip]   |
+| nessus        |               |              |                      |
+| bloodhound    |               |              |                      |
+| CrackMapExec  ||||
+|crypto-detector||||
+|php-reverse-shell||||
+|PowerView||||
+|Windows-Exploit-Suggester||||
+|PowerShell Empire||||
+|Dirbuster||||
+|BurpSuite||||
