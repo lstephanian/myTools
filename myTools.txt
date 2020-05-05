@@ -12,3 +12,5 @@
 |PowerShell Empire||||
 |Dirbuster||||
 |BurpSuite||||
+|wpascan||||
+
